@@ -1,0 +1,1 @@
+To validate user input and ensure data integrity before processing it with the AI model.

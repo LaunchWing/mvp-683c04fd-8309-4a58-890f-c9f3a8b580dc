@@ -1,0 +1,7 @@
+name = "mvp-683c04fd-8309-4a58-890f-c9f3a8b580dc"
+account_id = "6ec57290cbb52c27cda0bd089bae05a0"
+main = "functions/index.ts"
+compatibility_date = "2024-08-01"
+
+[assets]
+directory = "./public"

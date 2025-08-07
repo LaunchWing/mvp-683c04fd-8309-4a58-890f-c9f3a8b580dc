@@ -1,0 +1,1 @@
+To define a component for displaying and customizing AI-generated resume templates.

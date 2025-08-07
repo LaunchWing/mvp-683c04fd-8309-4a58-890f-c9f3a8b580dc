@@ -1,0 +1,1 @@
+To document the branding guidelines, including logo usage, color schemes, and typography.

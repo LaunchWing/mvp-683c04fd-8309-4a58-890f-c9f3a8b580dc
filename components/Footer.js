@@ -1,0 +1,1 @@
+To create a reusable footer component for the web application, including contact information and links.

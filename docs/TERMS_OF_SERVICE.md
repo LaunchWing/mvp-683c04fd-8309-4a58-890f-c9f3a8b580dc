@@ -1,0 +1,1 @@
+To provide the terms of service for using the AI ResumeCraft application, outlining user rights and responsibilities.

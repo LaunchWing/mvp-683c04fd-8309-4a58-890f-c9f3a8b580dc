@@ -1,0 +1,1 @@
+To outline the privacy policy, detailing how user data is collected, used, and protected.

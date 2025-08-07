@@ -1,1 +1,1 @@
-# mvp-683c04fd-8309-4a58-890f-c9f3a8b580dc
+To provide an overview of the AI ResumeCraft project, including its purpose, features, and how to get started with the application.

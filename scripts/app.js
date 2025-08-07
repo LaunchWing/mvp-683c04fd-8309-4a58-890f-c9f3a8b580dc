@@ -1,0 +1,1 @@
+To handle the client-side logic of the application, including user interactions and data processing.

@@ -1,0 +1,1 @@
+To create a reusable header component for the web application, including navigation and branding elements.

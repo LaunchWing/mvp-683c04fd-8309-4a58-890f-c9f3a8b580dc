@@ -1,0 +1,1 @@
+To handle the server-side logic for generating AI-powered resume templates based on user input.
